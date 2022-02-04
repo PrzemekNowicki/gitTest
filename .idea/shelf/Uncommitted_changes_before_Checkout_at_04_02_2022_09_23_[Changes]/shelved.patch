@@ -1,0 +1,13 @@
+Index: newFeature.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>to jest zmiana na newfeature\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/newFeature.txt b/newFeature.txt
+--- a/newFeature.txt	(revision b2bfe967ccb507378e6b4df98b203ab325bb96ca)
++++ b/newFeature.txt	(date 1643963025962)
+@@ -1,1 +1,1 @@
+-to jest zmiana na newfeature
++to jest zmiana na newfeaturedsadasd
